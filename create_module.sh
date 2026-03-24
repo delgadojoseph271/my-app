@@ -61,7 +61,7 @@ from sqlalchemy import String, Boolean
 from app.shared.base_model import Base
 
 
-class ${CLASS_NAME}(Base):
+class ${CLASS_NAME}(BaseModel):
     __tablename__ = "${MODULE_NAME}"
 
     # Agregá tus columnas aquí
