@@ -1,6 +1,3 @@
-from app.shared.event_bus import bus
-
-
 # ── Handlers de eventos externos ──────────────────────────────────────────────
 # Registrá aquí los eventos de otros módulos a los que este módulo reacciona.
 # Los handlers se suscriben en core/lifespan.py
