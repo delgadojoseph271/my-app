@@ -7,6 +7,7 @@ Descripción en 1-2 líneas de qué hace el proyecto.
 - Backend: FastAPI 0.110, Python 3.12
 - Mobile: Flutter 3.x, Dart 3.x
 - DB: PostgreSQL 16, Redis 7
+- sddsd
 
 ## Requisitos previos
 
