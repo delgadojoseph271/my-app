@@ -104,3 +104,4 @@ chore(deps): actualizar dependencias
 | `test` | Agregar o corregir tests |
 | `ci` | Cambios en CI/CD |
 | `style` | Formato, espacios |
+test
