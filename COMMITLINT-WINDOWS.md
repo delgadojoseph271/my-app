@@ -104,10 +104,16 @@ chore(deps): actualizar dependencias
 | `test` | Agregar o corregir tests |
 | `ci` | Cambios en CI/CD |
 | `style` | Formato, espacios |
-test
-test
-test
-test
-test
-test
-test
+
+### Ejemplos correctos ✓
+
+```
+feat(auth): agregar endpoint de refresh token
+fix(users): corregir validación de email duplicado
+chore(deps): actualizar sqlalchemy a 2.0.35
+refactor(tickets): extraer lógica de disponibilidad a método privado
+test(events): agregar tests de autorización para edición de eventos
+ci: agregar step de mypy al pipeline de backend
+docs(readme): actualizar instrucciones de setup local
+style: formatear código con prettier
+```
