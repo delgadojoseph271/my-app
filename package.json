@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "prepare": "husky"
+  "test": "echo \"No tests yet\" && exit 0",
+  "prepare": "husky install"
   },
   "repository": {
     "type": "git",
