@@ -1,1 +1,1 @@
-npx --no-install commitlint --edit "$1"
+node node_modules/@commitlint/cli/lib/cli.js --color --edit .git/COMMIT_EDITMSG
